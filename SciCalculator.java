@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class SciCalculator
+public class SciCalculator // this is for github
 {
     public static void main(String[] args)
     {
